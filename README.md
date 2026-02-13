@@ -146,7 +146,7 @@
 
     <header class="hero">
         <div class="hero-profile">
-            <img src="Dip.jpg" alt="Dip Tarafder">
+            <img src="IMG_20260211_182145.jpg" alt="Dip Tarafder">
         </div>
         <div class="hero-text">
             <p class="sub">Dips Officials</p>
